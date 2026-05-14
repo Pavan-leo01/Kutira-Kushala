@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148403031643",
+    "project_id": "kutirakushalaapp-928ce",
+    "storage_bucket": "kutirakushalaapp-928ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148403031643:android:b245cac6ba2c8f9679b97e",
+        "android_client_info": {
+          "package_name": "com.mindmat.myappl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIriM53apPjlFi22_qF_kXE7aini8EiSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
